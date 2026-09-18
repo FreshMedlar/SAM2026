@@ -11,7 +11,8 @@
 *.txt
 
 
-*/__pycache__/
+__pycache__/
+**/__pycache__/
 logs/
 imgs/
 slurm_log/
