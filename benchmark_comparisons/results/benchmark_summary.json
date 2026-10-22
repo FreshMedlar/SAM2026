@@ -1,0 +1,19 @@
+{
+    "synaptic": {
+        "final_test_acc": 97.13,
+        "final_test_loss": 0.09071196847558022,
+        "avg_epoch_time_s": 4.816213607788086,
+        "avg_step_time_ms": 1.9014455917033743,
+        "peak_vram_mb": 78.5556640625,
+        "final_weight_alignment": 0.7684600651264191,
+        "mean_cosine_similarity_to_bp": 0.9093428283929825,
+        "mean_norm_ratio_to_bp": 1.0373251032829285
+    },
+    "standard_bp": {
+        "final_test_acc": 97.56,
+        "final_test_loss": 0.08059979484863579,
+        "avg_epoch_time_s": 4.532713317871094,
+        "avg_step_time_ms": 0.8316736018404047,
+        "peak_vram_mb": 76.3916015625
+    }
+}
